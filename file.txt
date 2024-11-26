@@ -4,3 +4,4 @@ Another line of text
 third boring line of text
 Master line
 Conflict line
+Master line
