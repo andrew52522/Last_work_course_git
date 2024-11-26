@@ -5,3 +5,4 @@ third boring line of text
 Master line
 Conflict line
 Master line
+Conflict line
