@@ -2,3 +2,4 @@ Hello, World!
 Another line of text
 Another line of text
 third boring line of text
+Master line
